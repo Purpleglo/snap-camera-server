@@ -1,12 +1,3 @@
-[![GitHub License](https://img.shields.io/github/license/ptrumpis/snap-camera-server)](https://github.com/ptrumpis/snap-camera-server?tab=MIT-1-ov-file#readme)
-[![GitHub Release Date](https://img.shields.io/github/release-date/ptrumpis/snap-camera-server)](https://github.com/ptrumpis/snap-camera-server/releases/latest)
-[![GitHub Release](https://img.shields.io/github/v/release/ptrumpis/snap-camera-server)](https://github.com/ptrumpis/snap-camera-server/releases/latest)
-[![GitHub Commits](https://img.shields.io/github/commit-activity/t/ptrumpis/snap-camera-server)](https://github.com/ptrumpis/snap-camera-server/commits)
-[![GitHub stars](https://img.shields.io/github/stars/ptrumpis/snap-camera-server?style=flat)](https://github.com/ptrumpis/snap-camera-server/stargazers) 
-[![GitHub forks](https://img.shields.io/github/forks/ptrumpis/snap-camera-server?style=flat)](https://github.com/ptrumpis/snap-camera-server/forks)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ptrumpis)](https://github.com/sponsors/ptrumpis)
-[![GitHub Discussions](https://img.shields.io/github/discussions/ptrumpis/snap-camera-server)](https://github.com/ptrumpis/snap-camera-server/discussions)
-
 # 👻 Snap Camera Server v3.2
 An alternative self hosted solution for Snap Camera.  
 It will let you continue to use Snapcamera with all Snapchat filters after the shutdown on January 25, 2023.
